@@ -11,3 +11,7 @@ From the list of potential travel destinations, the beta tester will choose four
 
 ## Resources
 Will need a config file and google api key to run.
+
+## Project Results
+
+<img width="789" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/691355/144660278-fff3c8d0-226e-4b2e-8653-ce3e6f50f955.png">
